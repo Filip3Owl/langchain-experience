@@ -1,43 +1,42 @@
-# 🚀 Projeto LangChain - Explorando o Poder do LLMs com LangChain
+#objectives (python 3.11)
 
-Este repositório é uma coleção de exemplos práticos utilizando a biblioteca [LangChain](https://www.langchain.com/) com foco em:
+This repository is a collection of practical examples using the [LangChain](https://www.langchain.com/) library with a focus on:
 
-* 📦 Utilização de Modelos (LLMs)
-* 🧠 Prompt Templates
-* 📤 Output Parsers
-* 🧬 Memória (Memory)
-* 🔗 Chains
-* 🤖 Desenvolvimento de Agentes
-* 🔍 Integração com RAGs (Retrieval-Augmented Generation)
+* Using Models (LLMs)
+* Prompt Templates
+* Output Parsers
+* Memory
+* Chains
+* Agent Development
+* Integration with RAGs (Retrieval-Augmented Generation)
 
-## 📁 Estrutura do Projeto
+## Project Structure
 
 ```
 .
-├── 01_modelos/
+├── 01_models/
 ├── 02_prompt_templates/
 ├── 03_output_parsers/
 ├── 04_memory/
 ├── 05_chains/
-├── 06_agentes/
+├── 06_agents/
 ├── 07_rag/
 ├── README.md
 ```
 
-Cada pasta contém notebooks ou scripts com exemplos práticos e bem comentados para facilitar o aprendizado e a personalização.
+Each folder contains notebooks or scripts with practical and well-commented examples to facilitate learning and customization.
 
-## ⚙️ Requisitos
+## ⚙️ Requirements
 
 * Python 3.10+
-* Instalar dependências com:
+* Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## 🤝 Contribuições
+## Contributions
 
-Contribuições são muito bem-vindas! Sinta-se livre para abrir issues ou enviar pull requests. Vamos construir isso juntos! 💪
-
+Contributions are very welcome! Feel free to open issues or send pull requests. Let's build this together!
 
 ---
