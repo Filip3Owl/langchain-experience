@@ -1,4 +1,4 @@
-# LangChain Project - Exploring the Power of LLMs with LangChain (python 3.11)
+#objectives (python 3.11)
 
 This repository is a collection of practical examples using the [LangChain](https://www.langchain.com/) library with a focus on:
 
